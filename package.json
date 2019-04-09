@@ -1,6 +1,6 @@
 {
   "name": "@musical-patterns/metadata",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "license": "MIT",
@@ -9,6 +9,8 @@
     "url": "https://github.com/MusicalPatterns/metadata.git"
   },
   "devDependencies": {
-    "@musical-patterns/cli": "^1.0.537"
+    "@musical-patterns/cli": "^1.0.546",
+    "@musical-patterns/id": "^1.0.3",
+    "@musical-patterns/utilities": "^1.0.427"
   }
 }
